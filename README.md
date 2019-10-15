@@ -6,9 +6,9 @@ To run it you have to download [Julia](https://julialang.org/downloads/) and ins
 
 You can use 
 ```
-Pkg.add("JuMP")
-Pkg.add("GLPK")
-Pkg.add("Distances")
+] add JuMP
+] add GLPK
+] add Distances
 ```
 
 I visualized the problem using [d3](https://d3js.org).
