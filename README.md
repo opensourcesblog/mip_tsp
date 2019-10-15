@@ -7,7 +7,7 @@ To run it you have to download [Julia](https://julialang.org/downloads/) and ins
 You can use 
 ```
 Pkg.add("JuMP")
-Pkg.add("GLPKMathProgInterface")
+Pkg.add("GLPK")
 Pkg.add("Distances")
 ```
 
